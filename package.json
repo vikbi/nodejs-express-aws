@@ -1,0 +1,20 @@
+{
+  "name": "dir",
+  "version": "1.0.0",
+  "description": "api for aws sdk integration with express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vivek",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.866.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "stack": "^0.1.0",
+    "uuid": "^8.3.2"
+  }
+}
