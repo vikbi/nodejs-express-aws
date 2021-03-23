@@ -37,3 +37,6 @@ This server is exposing 4 api's
 2. Update README.md properly
 3. Design API's with params with proper methods like (GET/POST) as per requirement
 
+## Info
+https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/js-sdk-dg.pdf
+
